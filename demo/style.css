@@ -1,0 +1,7 @@
+@body-bg: #FFFFCC;
+
+html {
+  body {
+    background-color: @body-bg;
+  }
+}
